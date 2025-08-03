@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Prince Lord 👋
 
-<!--
-**PrinceLord-lab/PrinceLord-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Computer Engineering Student  
+🏫 Wesleyan University-Philippines  
+💡 Web Dev | UI/UX | IoT | Exploring AI  
+🧠 Minimalist ✨ Gen Z energy
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Interests
+- 🌐 **Web Development** – Modern, responsive, and user-focused websites  
+- 🎨 **UI/UX Design** – Clean, intuitive, and accessible interfaces  
+- 📡 **IoT Systems** – Smart devices for real-world solutions  
+- 🧠 **Exploring AI** – Just getting started, but curious and committed  
+
+---
+
+## 📌 Current Goals
+- 💻 Learn and apply AI in personal and academic projects  
+- 🎯 Build a Gen Z–friendly portfolio  
+- 🔗 Collaborate and grow in tech spaces
+
+---
+
+## 🧰 Tech Stack
+```html
+Frontend: HTML, CSS, JS  
+Design: Figma, Canva  
+Hardware: Arduino, ESP32  
+Tools: Git, GitHub, VS Code
