@@ -24,7 +24,10 @@
 
 ## 🧰 Tech Stack
 ```html
-Frontend: HTML, CSS, JS  
-Design: Figma, Canva  
-Hardware: Arduino, ESP32  
-Tools: Git, GitHub, VS Code
+Programming Languages: Python, TypeScript/JavaScript, C++, Java
+Library & Frameworks: React, Next.js, TensorFlow, Node.js, FastAPI, Tailwind CSS, OpenAI, Anthropic
+Database & Storage: MongoDB, MySQL, Firebase, Supabase, Cloudinary
+DevOps & Cloud: Git, CI/CD, Docker, AWS, DigitalOcean, Vercel, Netlify, GitHub Pages, Render, Namecheap
+Networking: VLAN Configuration & Inter-VLAN Routing, Static & Dynamic Routing, ACL, Firewall
+CS Concepts: Object-Oriented Programming (OOP), Algorithms, Software Design
+
