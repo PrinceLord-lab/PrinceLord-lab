@@ -1,5 +1,4 @@
-with open("README.md", "w") as f:
-    f.write("""# Hey, I'm Prince Lord 👋
+Hey, I'm Prince Lord 👋
 
 🎓 Computer Engineering Graduate  
 🏫 Wesleyan University-Philippines  
